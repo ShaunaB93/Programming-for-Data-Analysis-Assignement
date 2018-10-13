@@ -1,0 +1,44 @@
+Plan of tasks for assignment -
+
+1) Create the jupyter notebook for analysis
+
+2) Select dataset to use for the examples
+	A) have an explanation of partiicularities of the dataset
+
+3) Explain the overall use of the numpy.random package
+		Research to determine which distributions to use from documentation
+	A) 1st distribution explanation in the package -  
+	B) 2nd distribution explanation in the package -  
+	C) 3rd distribution explanation in the package -  
+	D) 4th distribution explanation in the package -  
+	E) 5th distribution explanation in the package -  
+
+4) Explanation of use of "Simple random data" function 
+	A) Explain funtion
+	B) Example of use of the function
+
+5) Explanation of use of "Permutations" function
+	A) Explain funtion
+	B) Example of use of the function
+
+6) Explanations of the uses and purpose of 5 of the "Distributions" functions
+	A) Explain funtion
+	B) Example of use of the function
+
+7) Explanation of use of seeds in generating pseudorandom numbers
+	A) Explanation
+	B) Example of use of the function
+
+8) Compile reference list and reference within the notebook
+
+9) Compile README file
+	A) explain how to run the notebook
+	B) write explanation of what is contained in the repository
+
+10) Clean up markdown and analysis into final jupyter notebook for submission
+
+
+
+Resource links for references for assignment -
+
+
